@@ -1,0 +1,7 @@
+{
+  "utterance": "repeat",
+  "intent_type": "RepeatTranslate",
+  "intent": {
+    "RepeatKeyword": "repeat"
+  }
+}

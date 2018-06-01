@@ -1,0 +1,1 @@
+(translate|say) (?P<Translate>.*) (to|in) (spanish|italian|english|french|dutch|german|polish|portuguese|danish|hungarian|swedish|norwegian|catalan|romanian|slovak|chinese|japanese|korean|greek|vietnamese|turkish|finnish|arabic)

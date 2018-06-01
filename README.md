@@ -2,8 +2,8 @@
 Allow to translate phrases into other languages
 
 ## Description
-Allow to translate phrases into other languagessupported languages:
-
+Allow to translate phrases into other languages:
+supported languages:
 english, spanish, french, italian, portuguese, dutch, german, swedish, hungarian, polish, norwegian, danish, romanian, slovak, catalan, chinese, japanese, korean, greek, vietnamese, turkish, finnish and arabic
 
 ## Examples

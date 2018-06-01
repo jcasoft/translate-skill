@@ -1,0 +1,9 @@
+{
+  "utterance": "do you speak other language",
+  "intent_type": "OthersLanguagesIntent",
+  "intent": {
+    "SpeakKeyword": "do you speak other",
+    "LanguageKeyword": "language",
+  },
+  "expected_dialog": "yes.ask"
+}
